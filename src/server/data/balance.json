@@ -1,0 +1,29 @@
+{
+  "ARCHER": {
+    "DROW": {
+      "health": 410,
+      "mana": 0,
+      "stamina": 500
+    },
+    "DWARF": {
+      "health": 475,
+      "mana": 0,
+      "stamina": 500
+    },
+    "ELF": {
+      "health": 440,
+      "mana": 0,
+      "stamina": 500
+    },
+    "GNOME": {
+      "health": 410,
+      "mana": 0,
+      "stamina": 500
+    },
+    "HUMAN": {
+      "health": 460,
+      "mana": 0,
+      "stamina": 500
+    }
+  }
+}

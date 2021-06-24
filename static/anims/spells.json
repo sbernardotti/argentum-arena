@@ -1,0 +1,138 @@
+{
+  "anims": [
+    {
+      "key": "anim_spell1",
+      "type": "frame",
+      "frames": [
+        {
+          "key": "spells",
+          "frame": "spell1_1",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_2",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_3",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_4",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_5",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_6",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_7",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_8",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_9",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_10",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_11",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_12",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_13",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_14",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_15",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_16",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_17",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_18",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_19",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_20",
+          "duration": 0,
+          "visible": false
+        },
+        {
+          "key": "spells",
+          "frame": "spell1_21",
+          "duration": 0,
+          "visible": false
+        }
+      ],
+      "frameRate": 16,
+      "repeat": 0
+    }
+  ]
+}

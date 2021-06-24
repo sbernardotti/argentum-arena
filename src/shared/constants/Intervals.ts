@@ -1,0 +1,2 @@
+export const CLIENT_WALK_INTERVAL = 150;
+export const SERVER_WALK_INTERVAL = 200;

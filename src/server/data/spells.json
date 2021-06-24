@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 3,
+      "description": { "es": "Apocalipsis", "en": "Apocalypse" },
+      "magicWords": "Rahma Nañarak O'al",
+      "animationId": 1,
+      "soundId": 1,
+      "casterMessage": {
+        "es": "Has lanzado Apocalipsis sobre $1.",
+        "en": "Has lanzado Apocalypse over $1."
+      },
+      "targetMessage": {
+        "es": "$1 te ha lanzado Apocalipsis.",
+        "en": "$1 lanzo Apocalypse over you."
+      },
+      "type": 1,
+      "minDamage": 180,
+      "maxDamage": 200,
+      "mana": 10,
+      "stamina": 120
+    }
+  ]
+}
